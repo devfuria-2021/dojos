@@ -1,6 +1,4 @@
-# Dojo
-
-### Funções para as 4 operações aritméticas 
+# Funções para as 4 operações aritméticas 
 
 1. Escreva uma função para cada uma das quatro operações matemáticas simples:
 
