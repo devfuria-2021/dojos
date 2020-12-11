@@ -1,4 +1,4 @@
-## Dojo  
+## Dojo
 
 1. Crie duas funções para conversão de temperaturas.
 
@@ -9,10 +9,11 @@ Saiba que 100c é igual a 212f, veja fórmula:
    C          F - 32
 -------  =  ---------
    5            9
-   
+
 
 2. Script para executar pelo terminal (checagem manual)
 3. Escript de teste (checagem automática)
+
 
 ### Bônus
 
